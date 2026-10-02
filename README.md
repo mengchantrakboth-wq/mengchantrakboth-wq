@@ -5,7 +5,7 @@ I build web apps and desktop apps.
 
 ## Currently
 - Building a Web POS system (Laravel + React)
-- Learning Spring Boot
+- Learning Spring Boot, Next Js
 
 ## Tech
 **Languages:** PHP, JavaScript, Java
